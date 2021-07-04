@@ -1,12 +1,16 @@
-# Embedded Security (SS21) Project Proposal: Hand Gesture Detector (From Images not videos) 
+# Embedded Security (SS21) Final Project: Hand Gesture Detector (From Images not videos) 
 
 > Tabdar Khan (@tb15228), Siraj Munir (@sm11293)
 
 
 ## Overview
 
-We want to build algorithm to **detect hand gestures from images** using `software` and then accelerating the algorithm using `PYNQ-Z2 FPGA board`.
+We have impemented initial algorithms to **detect hand gestures from images** using `software` and then accelerating the algorithm using `PYNQ-Z2 FPGA board`.
 
+### Software Approach
+[PS]: images/readme_image.PNG "PS Approach"
+### Programmable Logic Approach
+[PL]: images/readme_image2.PNG "PL Approach"
 ## Background
 
 We have often seen the use of computer vision to Recognize gestures in different videos and we must admit it looks pretty cool. Based on our research, we know that most of that work is done using `Machine Learning` or `Computer Vision`.
