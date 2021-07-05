@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 create_project -part xc7z020-1clg400 rtl.xpr rtl-proj -force
 
 set_property ip_repo_paths hls-proj [current_project]
@@ -91,3 +92,6 @@ set_property top overlay [current_fileset]
 launch_runs impl_1 -to_step write_bitstream                                                                          
 wait_on_run impl_1                                                                                                   
 exit
+=======
+
+>>>>>>> f856718b1d067c85c48007d758efeb4636f79c41
